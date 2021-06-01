@@ -12,10 +12,10 @@ while working remotely, and learning new technologies 💡
 
 Learning, teaching, sharing knowledge, and getting outside my comfort zone, are part of what keeps me going.
 
-- 🔭 I’m currently working on [collaborativemusicapp](https://github.com/BaselBoulos/collaborativemusicapp)
+- 🔭 I’m currently working on [collaborativemusicapp](https://github.com/BaselBoulos/collaborativemusicapp).
 - 🌱 I’m currently learning ReactJS.
 - 🤝 I’m looking for a Junior Full Stack/Back-end development job at this moment.
-- 📫 How to reach me: baselboulos@gmail.com
+- 📫 How to reach me: baselboulos@gmail.com.
 
 ### Connect with me:
 
