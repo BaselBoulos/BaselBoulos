@@ -1,6 +1,6 @@
 ### Hi👋, I'm Basel
 
-## I'm a Developer, Production planner & Control, and World Explorer!!
+## I'm a Developer, Production planner & Control, and Solo World Explorer!!
 
 I Hold An associate degree graduate specialized in software engineering, With Seven years of experience
 working as a production planner and control in the advanced manufacturing sector, And I'm self-taught in,
