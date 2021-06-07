@@ -5,7 +5,7 @@
 I Hold An associate degree graduate specialized in software engineering, With Seven years of experience
 working as a production planner and control in the advanced manufacturing sector, And I'm self-taught in,
 Python, HTML, CSS, ReactJS, and Django Web Framework.
-I have also studied algoirthms & data structures through [MIT 6.00](https://www.youtube.com/watch?v=k6U-i4gXkLM) Full Course.
+I have also studied algorithms & data structures through [MIT 6.00](https://www.youtube.com/watch?v=k6U-i4gXkLM) Full Course.
 
 A little more about me, I have explored more than 15 countries around the world, and lived in New Zealand for about 1.5 years,
 while working remotely, and learning new technologies 💡
