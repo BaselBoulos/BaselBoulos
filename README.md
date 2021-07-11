@@ -1,6 +1,6 @@
 ### Hi👋, I'm Basel
 
-## I'm a Developer, Production planner & Control, and Solo World Explorer!!
+## I'm a Software Developer, And Production planner & Control
 
 I Hold An associate degree graduate specialized in software engineering, With Seven years of experience
 working as a production planner and control in the advanced manufacturing sector, And I'm self-taught in,
@@ -11,6 +11,9 @@ After spending my career to this point in production planning and control, am ea
 and what I'm really passionate about, I am seeking my first job as a Full-Stack developer.
 
 Learning, teaching, sharing knowledge, and getting outside my comfort zone, are part of what keeps me going.
+
+I'm curious about different cultures and perspectives, and how the world works in different countries,
+which led me to explore alone a dozen countries around the world, that also helped my communication and problem-solving skills
 
 - 🔭 I’m currently working on [PortfolioWebsite](https://github.com/BaselBoulos/PortfolioWebsite).
 - 🌱 I’m currently learning ReactJS.
