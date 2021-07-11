@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer, And Production planner & Control
 
-I Hold An associate degree graduate specialized in software engineering, And I'm self-taught in Full Stack React & Django.
+I Hold An associate degree specialized in software engineering, And I'm self-taught in Full Stack React & Django.
 
 I have also studied algorithms & data structures through [MIT 6.00](https://www.youtube.com/watch?v=k6U-i4gXkLM) Full Course.
 
