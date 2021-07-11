@@ -8,7 +8,7 @@ Python, HTML, CSS, ReactJS, and Django Web Framework.
 I have also studied algorithms & data structures through [MIT 6.00](https://www.youtube.com/watch?v=k6U-i4gXkLM) Full Course.
 
 A little more about me, I have solo explored more than 15 countries around the world, and lived in New Zealand for about 1.5 years,
-while working remotely, and learning new technologies 💡
+while working remotely, and self learning new technologies 💡
 
 Learning, teaching, sharing knowledge, and getting outside my comfort zone, are part of what keeps me going.
 
