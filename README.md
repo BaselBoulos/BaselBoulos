@@ -2,11 +2,11 @@
 
 ## I'm a Software Developer, And Production planner & Control
 
-I Hold An associate degree graduate specialized in software engineering, With Seven years of experience
-working as a production planner and control in the advanced manufacturing sector, And I'm self-taught in,
-Python, HTML, CSS, ReactJS, and Django Web Framework.
+I Hold An associate degree graduate specialized in software engineering, And I'm self-taught in Full Stack React & Django.
+
 I have also studied algorithms & data structures through [MIT 6.00](https://www.youtube.com/watch?v=k6U-i4gXkLM) Full Course.
 
+I have Seven years of experience working as a production planner and control in the advanced manufacturing sector, and
 After spending my career to this point in production planning and control, am eager to advance within the high-tech space, 
 and what I'm really passionate about, I am seeking my first job as a Full-Stack developer.
 
