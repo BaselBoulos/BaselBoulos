@@ -14,7 +14,7 @@ Learning, teaching, sharing knowledge, and getting outside my comfort zone, are 
 
 - 🔭 I’m currently working on [PortfolioWebsite](https://github.com/BaselBoulos/PortfolioWebsite).
 - 🌱 I’m currently learning ReactJS.
-- 🤝 I’m looking for a Junior Full Stack/Backend/Frontend development job at this moment.
+- 🤝 I’m looking for a Junior Full Stack developer job at this moment.
 - 📫 How to reach me: baselboulos@gmail.com.
 
 ### Connect with me:
