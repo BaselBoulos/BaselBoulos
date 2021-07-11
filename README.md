@@ -6,9 +6,8 @@ I Hold An associate degree graduate specialized in software engineering, And I'm
 
 I have also studied algorithms & data structures through [MIT 6.00](https://www.youtube.com/watch?v=k6U-i4gXkLM) Full Course.
 
-I have Seven years of experience working as a production planner and control in the advanced manufacturing sector, and
-After spending my career to this point in production planning and control, am eager to advance within the high-tech space, 
-and what I'm really passionate about, I am seeking my first job as a Full-Stack developer.
+After spending my career to this point in production planning and control in the advanced manufacturing sector, 
+am eager to advance within the high-tech space, and what I'm really passionate about, and I am seeking my first job as a Full-Stack developer.
 
 Learning, teaching, sharing knowledge, and getting outside my comfort zone, are part of what keeps me going.
 
