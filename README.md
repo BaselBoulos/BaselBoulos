@@ -10,9 +10,6 @@ I have also studied algorithms & data structures through [MIT 6.00](https://www.
 After spending my career to this point in production planning and control, am eager to advance within the high-tech space, 
 and what I'm really passionate about, I am seeking my first job as a Full-Stack developer.
 
-A little more about me, I have solo explored more than 15 countries around the world, and lived in New Zealand for about 1.5 years,
-while working remotely, and self learning new technologies 💡
-
 Learning, teaching, sharing knowledge, and getting outside my comfort zone, are part of what keeps me going.
 
 - 🔭 I’m currently working on [PortfolioWebsite](https://github.com/BaselBoulos/PortfolioWebsite).
