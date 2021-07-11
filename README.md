@@ -8,7 +8,7 @@ Python, HTML, CSS, ReactJS, and Django Web Framework.
 I have also studied algorithms & data structures through [MIT 6.00](https://www.youtube.com/watch?v=k6U-i4gXkLM) Full Course.
 
 After spending my career to this point in production planning and control, am eager to advance within the high-tech space, 
-and what I'm really passionate about, I am seeking my first job as first role as a Full-Stack developer.
+and what I'm really passionate about, I am seeking my first job as a Full-Stack developer.
 
 A little more about me, I have solo explored more than 15 countries around the world, and lived in New Zealand for about 1.5 years,
 while working remotely, and self learning new technologies 💡
