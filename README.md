@@ -1,6 +1,6 @@
 ### Hi👋, I'm Basel
 
-## Full-Stack Web Developer, Production Planner & Control, And World Explorer :)
+## Full-Stack Developer, Production Planner & Control, And World Explorer :)
 
 I Hold An associate degree specialized in software engineering, And I'm self-taught in Full Stack React & Django.
 
