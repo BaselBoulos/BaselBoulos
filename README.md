@@ -7,7 +7,7 @@ I Hold An associate degree specialized in software engineering, And I'm self-tau
 After spending my career to this point in production planning and control in the advanced manufacturing sector, 
 am eager to advance within the high-tech space and seeking my first job as a Full-Stack developer.
 
-Learning, teaching, sharing knowledge, and getting outside my comfort zone, are part of what keeps me going.
+Learning, teaching, sharing knowledge, and expanding my comfort zone, are part of what keeps me going and growing.
 
 I'm curious about different cultures and perspectives, which led me to explore alone a dozen
 countries around the world, that also helped my communication and problem-solving skills, stress management and more!
