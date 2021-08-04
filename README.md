@@ -10,7 +10,7 @@ After spending my career to this point in production planning and control in the
 am eager to advance within the high-tech space and seeking my first job as a Full-Stack developer.
 
 I'm curious about different cultures and perspectives, which led me to explore alone a dozen
-countries around the world, that also helped my communication and problem-solving skills, stress management and more!
+countries around the world, which also helped my communication and problem-solving skills, stress management and more!
 
 - 🔭 I’m currently working on [PortfolioWebsite](https://github.com/BaselBoulos/PortfolioWebsite).
 - 🌱 I’m currently learning ReactJS.
