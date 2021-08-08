@@ -2,7 +2,7 @@
 
 ## Full-Stack Developer, Production Planner & Control, And World Explorer :)
 
-I Hold An associate degree specialized in software engineering, And I'm self-taught in Full Stack React & Django.
+I Hold An associate degree specialized in software engineering, And I'm self-taught in Full Stack React (Learning) & Django.
 
 I love spending hours and hours building things, resolving problem, and learning new technologies✨
 
