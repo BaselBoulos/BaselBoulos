@@ -7,7 +7,7 @@ I Hold An associate degree specialized in software engineering, and I'm self-tau
 Currently, I am attending a very intensive 12-week full-stack Coding Bootcamp with Coding Academy in Israel,  
 to advance my problem-solving, critical thinking, teamwork, and web development skills with JavaScript.
 
-I love spending hours and hours building things, resolving problem, and learning new technologies✨
+I love spending hours and hours building things, resolving problems, and learning new technologies✨
 
 Learning, teaching, sharing knowledge, and expanding my comfort zone, are part of what keeps me going and growing.
 
