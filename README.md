@@ -2,7 +2,10 @@
 
 ## Full-Stack Developer, Production Planner & Control, And World Explorer :)
 
-I Hold An associate degree specialized in software engineering, And I'm self-taught in Full Stack React (Learning) & Django.
+I Hold An associate degree specialized in software engineering, self-taught in Full Stack React (Learning) & Django.
+
+Currently, I am attending a very intensive 12-week full-stack Coding Bootcamp with Coding Academy in Israel,
+to advance my problem-solving, critical thinking, teamwork, and web development skills with JavaScript.
 
 I love spending hours and hours building things, resolving problem, and learning new technologies✨
 
