@@ -2,16 +2,18 @@
 
 ## Full-Stack Developer, Production Planner & Control, And World Explorer :)
 
-I Hold An associate degree specialized in software engineering, self-taught in Full Stack React (Learning) & Django.
+I Hold An associate degree specialized in software engineering, and I'm self-taught in Full Stack React (Learning) & Django.
 
-Currently, I am attending a very intensive 12-week full-stack Coding Bootcamp with Coding Academy in Israel,
+Currently, I am attending a very intensive 12-week full-stack Coding Bootcamp with Coding Academy in Israel,  
 to advance my problem-solving, critical thinking, teamwork, and web development skills with JavaScript.
 
 I love spending hours and hours building things, resolving problem, and learning new technologies✨
 
 Learning, teaching, sharing knowledge, and expanding my comfort zone, are part of what keeps me going and growing.
 
-I'm a very curious person, which led me to explore alone a dozen countries, to learn about the world, technologies, and different cultures, which increased my understanding worldview, creativity, developing and building new things from different perspectives.
+I'm a very curious person, which led me to explore alone a dozen countries, to learn about the world,  
+technologies, and different cultures, which increased my understanding worldview, creativity, developing  
+and building new things from different perspectives.
 
 - 🔭 I’m currently working on [PortfolioWebsite](https://github.com/BaselBoulos/PortfolioWebsite).
 - 🌱 I’m currently learning ReactJS.
