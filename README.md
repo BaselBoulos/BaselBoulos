@@ -16,7 +16,7 @@ technologies, and different cultures, which increased my understanding worldview
 and building new things from different perspectives.
 
 - 🔭 I’m currently working on [PortfolioWebsite](https://github.com/BaselBoulos/PortfolioWebsite).
-- 🌱 I’m currently attending coding bootcamp in Israel.
+- 🌱 I’m currently attending coding bootcamp (Coding academy) in Israel.
 - 🤝 I’m looking for a Junior (Entry) Full Stack developer job at this moment.
 - 📫 How to reach me: baselboulos@gmail.com.
 
