@@ -1,6 +1,6 @@
 ### Hi👋, I'm Basel
 
-## A Frontend / Full-Stack Web Developer from Israel :)
+## A Full-Stack / Frontend Web Developer from Israel :)
 
 Holding An associate degree specialized in software engineering, And a Recent Graduate of the Coding Academy Bootcamp.
 
