@@ -8,7 +8,7 @@ I have also completed courses in Computer Science and Web Programming using Pyth
 
 I love spending hours and hours building things, resolving problems, and learning new technologies✨
 
-- 🔭 I’m currently working on [PortfolioWebsite](https://www.baselboulos.com/)
+- 🔭 I’m currently working on [PortfolioWebsite](https://www.baselboulos.com/).
 - 🤝 I’m looking for a Junior (Entry) Frontend / Full-Stack developer job at this moment.
 - 📫 How to reach me: baselboulos@gmail.com.
 
