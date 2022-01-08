@@ -66,6 +66,8 @@ I love spending hours and hours building things, resolving problems, and learnin
 
 [<img align="left" alt="Heroku | Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />](https://www.heroku.com/)
 
+[<img align="left" alt="Netlify | Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />](https://www.netlify.com/)
+
 ### <br/>
 
 ### Web Design Tools:
