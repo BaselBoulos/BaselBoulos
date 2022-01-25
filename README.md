@@ -1,16 +1,12 @@
 ### Hi👋, I'm Basel
 
-## A Full-Stack / Frontend Web Developer from Israel :)
+## A Full Stack Web Developer from Israel :)
 
-Holding An associate degree specialized in software engineering, And a Recent Graduate of the Coding Academy Bootcamp.
+Holding An associate degree specialized in software engineering, And a Graduate of the Coding Academy Bootcamp.
 
 I have also completed courses in Computer Science and Web Programming using Python and JavaScript with MIT and Harvard universities through EDX (MIT6.00.1x, MIT6.00.2x, CS50W).
 
 I love spending hours and hours building things, resolving problems, and learning new technologies✨
-
-- 🔭 I’m currently working on [PortfolioWebsite](https://www.baselboulos.com/).
-- 🤝 I’m looking for a Junior (Entry) Frontend / Full-Stack developer job at this moment.
-- 📫 How to reach me: baselboulos@gmail.com.
 
 ### Connect with me:
 
