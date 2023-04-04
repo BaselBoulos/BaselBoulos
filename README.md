@@ -2,7 +2,7 @@
 
 ## A Full Stack Web Developer from Israel :)
 
-Holding An associate degree specialized in software engineering, And a Graduate of the Coding Academy Bootcamp.
+Holding An associate degree specialized in software engineering, And a Graduate of the Coding Academy Bootcamp with an excellence scholarship.
 
 I have also completed courses in Computer Science and Web Programming using Python and JavaScript with MIT and Harvard universities through EDX (MIT6.00.1x, MIT6.00.2x, CS50W).
 
